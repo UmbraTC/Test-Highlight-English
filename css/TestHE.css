@@ -4,4 +4,8 @@ body {
 
 header {
 	background-color: ;
+	text-align: center;
+}
+header h1{
+	color: #30adff;
 }
