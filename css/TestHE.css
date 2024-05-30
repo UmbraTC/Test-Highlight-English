@@ -3,18 +3,14 @@ body {
 }
 
 header {
-	font-family: 'Germania One';font-size: 22px;
-    
+font-family: 'IM Fell Double Pica';font-size: 22px;    
     <style>
     body {
-    font-family: 'Germania One';font-size: 22px;
-    
+    font-family: 'IM Fell Double Pica';font-size: 22px;
 }
-</style>
-
-	
+</style>	
   
-    }
+}
 
 header h1{
 	color: #30adff;
@@ -22,9 +18,6 @@ header h1{
 	
 }
 
-
-
-}
 header img {
 	border: 3px solid #f57205;
 }
