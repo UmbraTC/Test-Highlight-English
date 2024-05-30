@@ -9,3 +9,6 @@ header {
 header h1{
 	color: #30adff;
 }
+header img {
+	border: 7px solid #f57205;
+}
