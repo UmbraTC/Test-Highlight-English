@@ -55,8 +55,21 @@ p {
 	padding-top: 10px;
 	padding-bottom: 40px;
 	text-align: center;
+}
+
+a {
+	font-size: 25px;
 
 }
 main img{
 	max-width: 100%;
+}
+
+footer {
+	font-family: 'Inder';font-size: 22px;
+	font-size: 22px;
+	color: ghostwhite;
+	padding-top: 10px;
+	padding-bottom: 40px;
+	text-align: center;
 }
