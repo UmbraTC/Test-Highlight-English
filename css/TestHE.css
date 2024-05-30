@@ -47,6 +47,7 @@ header img {
 main {
 	max-width: 800px;
 	margin: 0 auto;
+	padding: 0 20px;
 }
 p {
 	font-family: 'Inder';font-size: 22px;
@@ -60,17 +61,29 @@ p {
 a {
 	font-size: 25px;
 	color: #f57205;
-
 }
+
+a:hover{ 
+color:#30adff 
+}
+
+
 main img{
 	max-width: 100%;
 }
 
 footer {
+
+
+	background-color:#f57205 ;
 	font-family: 'Inder';font-size: 22px;
 	font-size: 22px;
 	color: ghostwhite;
 	padding-top: 10px;
-	padding-bottom: 40px;
+	padding-bottom: 10px;
 	text-align: center;
+}
+footer a{
+
+	color: black;
 }
