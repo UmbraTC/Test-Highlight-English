@@ -3,21 +3,34 @@ body {
 }
 
 header {
-font-family: 'IM Fell Double Pica';font-size: 22px;    
+font-family: 'Inder';font-size: 22px;    
     <style>
     body {
-    font-family: 'IM Fell Double Pica';font-size: 22px;
+    font-family: 'Inder';font-size: 22px;
 }
 </style>	
   
 }
 
+h1, h2{
+	font-family: 'Inder';font-size: 22px;   
+}
+
 header h1{
+	font-size: 50px;
 	color: #30adff;
 	padding-top: 50px;
+
 	
 }
 
 header img {
 	border: 3px solid #f57205;
+}
+
+main {
+	max-width: 800px;
+}
+main img{
+	max-width: 100%;
 }
